@@ -1,3 +1,8 @@
+Markdown
+---
+title: Termos e Condições — Pega Freela
+---
+
 # Termos e Condições de Serviço — Pega Freela
 
 Ao baixar, instalar ou utilizar o aplicativo **Pega Freela**, você concorda integralmente com estes Termos de Serviço. Solicitamos que realize uma leitura atenta e detalhada antes de prosseguir com a utilização da plataforma.
