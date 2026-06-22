@@ -117,7 +117,7 @@ O Pega Freela poderá suspender ou banir o acesso de um usuário às funcionalid
 
 ## 🔞 10. Requisitos de Idade e Capacidade Legal
 
-Para interagir e transacionar na plataforma, você declara ter capacidade civil plena e **idade mínima de 18 anos**. Se você for menor de 18 anos, um dos pais ou o tutor legal responsável deverá obrigatoriamente revisar, anuir e aceitar estes Termos em seu nome antes de qualquer ação no aplicativo.
+Para interagir e transacionar na plataforma, você declara ter capacidade civil plena e **idade mínima de 18 anos**.
 
 ---
 
